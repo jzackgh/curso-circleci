@@ -1,7 +1,5 @@
 function SecondComponent() {
-  return <div>
-    <div>
-  </div>;
+  return <div></div>;
 }
 
 export default SecondComponent;
